@@ -24,8 +24,9 @@
 
 # Modul praktikum 2
 
-
 ### Tugas praktikum 2
+
+![latihan 2- 3 angka terbesar](https://user-images.githubusercontent.com/115516473/199964100-69ee5166-5f34-4af4-9524-cf6e5c5d05c5.png)
 
 # Modul praktikum 3
 
