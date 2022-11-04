@@ -8,9 +8,9 @@
 
 ![latihan 1-angka terbesar](https://user-images.githubusercontent.com/115516473/199944811-56f6a8d7-4277-45ee-8a94-6de1c3e3efb6.png)
 
-### Latihan 2 - Program menentukan nilai terbesar 3 bilangan
+### Latihan 2 - Program mengurutkan 3 variable dari kecil ke yang terbesar
 
-![latihan 2- 3 angka terbesar](https://user-images.githubusercontent.com/115516473/199945107-43eebc25-e4b3-4f6d-9e65-dbfab0dc7b67.png)
+![mengurutkan bilangan](https://user-images.githubusercontent.com/115516473/199963467-ebfc44c8-d1ab-4577-88d5-de02717e2b69.png)
 
 # Lab 3 - Perulangan
 
