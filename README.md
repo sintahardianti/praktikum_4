@@ -32,6 +32,12 @@
 
 ### Latihan 1 
 
+![0 5](https://user-images.githubusercontent.com/115516473/199964827-4bf9d6d2-0388-404d-ba7e-4926192cdd81.png)
+
 ### Latihan 2
 
+![latihan 2-2](https://user-images.githubusercontent.com/115516473/199966133-3144f689-d368-48d7-be9b-f0b790a3cc51.png)
+
 ### Program 1
+
+![program 1](https://user-images.githubusercontent.com/115516473/199966499-bb0dd74f-0898-43da-89f4-bf48bb866155.png)
